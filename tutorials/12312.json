@@ -1,0 +1,211 @@
+{
+    "data" : [
+        {
+            "id": "0",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_01.png",
+                "slug": "visual-analytics-01",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "40",
+                        "xMax": "208",
+                        "yMin": "618",
+                        "yMax": "638"
+                    },
+                    "type": "hover",
+                    "nextState": "1"
+                }
+            ]
+        },
+        {
+            "id": "1",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_02.png",
+                "slug": "visual-analytics-02",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "40",
+                        "xMax": "208",
+                        "yMin": "618",
+                        "yMax": "638"
+                    },
+                    "type": "click",
+                    "nextState": "2"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_03.png",
+                "slug": "visual-analytics-03",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "56",
+                        "xMax": "208",
+                        "yMin": "238",
+                        "yMax": "258"
+                    },
+                    "type": "hover",
+                    "nextState": "3"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_04.png",
+                "slug": "visual-analytics-04",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "56",
+                        "xMax": "208",
+                        "yMin": "238",
+                        "yMax": "258"
+                    },
+                    "type": "click",
+                    "nextState": "4"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_05.png",
+                "slug": "visual-analytics-05",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "224",
+                        "xMax": "364",
+                        "yMin": "212",
+                        "yMax": "232"
+                    },
+                    "type": "hover",
+                    "nextState": "5"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_06.png",
+                "slug": "visual-analytics-06",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "224",
+                        "xMax": "364",
+                        "yMin": "212",
+                        "yMax": "232"
+                    },
+                    "type": "click",
+                    "nextState": "6"
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_07.png",
+                "slug": "visual-analytics-07",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "224",
+                        "xMax": "364",
+                        "yMin": "254",
+                        "yMax": "274"
+                    },
+                    "type": "hover",
+                    "nextState": "7"
+                }
+            ]
+        },
+        {
+            "id": "7",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_08.png",
+                "slug": "visual-analytics-08",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "rect",
+                        "xMin": "224",
+                        "xMax": "364",
+                        "yMin": "254",
+                        "yMax": "274"
+                    },
+                    "type": "click",
+                    "nextState": "8"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "img": {
+                "src": "http://siniestro.xyz/pis/visual_analytics_09.png",
+                "slug": "visual-analytics-09",
+                "desc": "",
+                "width": "1253",
+                "height": "842"
+            },
+            "event": [
+                {
+                    "region": {
+                        "type": "",
+                        "xMin": "",
+                        "xMax": "",
+                        "yMin": "",
+                        "yMax": ""
+                    },
+                    "type": "",
+                    "nextState": ""
+                }
+            ]
+        }
+    ]
+}
