@@ -1,213 +1,213 @@
 {
-    "data": [
+  "data": [
+    {
+      "StepID": "0",
+      "Image": {
+        "PropertyID": "2",
+        "Source": "http://siniestro.xyz/pis/visual_analytics_01.png",
+        "Slug": "visual-analytics-01",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
         {
-            "StepID": "0",
-            "Image": {
-                "PropertyID": "2",
-                "Source": "http://siniestro.xyz/pis/visual_analytics_01.png",
-                "Slug": "visual-analytics-01",
-                "Description": "",
-                "Width": "1253",
-                "Heigth": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "40",
-                        "MaximumX": "208",
-                        "MinimumY": "618",
-                        "MaximumY": "638"
-                    },
-                    "Type": "hover",
-                    "NextStep": "1",
-                    "OriginStep": "0"
-                }
-            ]
-        },
-        {
-            "StepID": "1",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_02.png",
-                "Slug": "visual-analytics-02",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "40",
-                        "MaximumX": "208",
-                        "MinimumY": "618",
-                        "MaximumY": "638"
-                    },
-                    "Type": "click",
-                    "NextStep": "2"
-                }
-            ]
-        },
-        {
-            "StepID": "2",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_03.png",
-                "Slug": "visual-analytics-03",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "56",
-                        "MaximumX": "208",
-                        "MinimumY": "238",
-                        "MaximumY": "258"
-                    },
-                    "Type": "hover",
-                    "NextStep": "3"
-                }
-            ]
-        },
-        {
-            "StepID": "3",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_04.png",
-                "Slug": "visual-analytics-04",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "56",
-                        "MaximumX": "208",
-                        "MinimumY": "238",
-                        "MaximumY": "258"
-                    },
-                    "Type": "click",
-                    "NextStep": "4"
-                }
-            ]
-        },
-        {
-            "StepID": "4",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_05.png",
-                "Slug": "visual-analytics-05",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "224",
-                        "MaximumX": "364",
-                        "MinimumY": "212",
-                        "MaximumY": "232"
-                    },
-                    "Type": "hover",
-                    "NextStep": "5"
-                }
-            ]
-        },
-        {
-            "StepID": "5",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_06.png",
-                "Slug": "visual-analytics-06",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "224",
-                        "MaximumX": "364",
-                        "MinimumY": "212",
-                        "MaximumY": "232"
-                    },
-                    "Type": "click",
-                    "NextStep": "6"
-                }
-            ]
-        },
-        {
-            "StepID": "6",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_07.png",
-                "Slug": "visual-analytics-07",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "224",
-                        "MaximumX": "364",
-                        "MinimumY": "254",
-                        "MaximumY": "274"
-                    },
-                    "Type": "hover",
-                    "NextStep": "7"
-                }
-            ]
-        },
-        {
-            "StepID": "7",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_08.png",
-                "Slug": "visual-analytics-08",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "rect",
-                        "MinimumX": "224",
-                        "MaximumX": "364",
-                        "MinimumY": "254",
-                        "MaximumY": "274"
-                    },
-                    "Type": "click",
-                    "NextStep": "8"
-                }
-            ]
-        },
-        {
-            "StepID": "8",
-            "Image": {
-                "Source": "http://siniestro.xyz/pis/visual_analytics_09.png",
-                "Slug": "visual-analytics-09",
-                "Description": "",
-                "Width": "1253",
-                "Height": "842"
-            },
-            "Events": [
-                {
-                    "Region": {
-                        "Type": "",
-                        "MinimumX": "",
-                        "MaximumX": "",
-                        "MinimumY": "",
-                        "MaximumY": ""
-                    },
-                    "Type": "",
-                    "NextStep": ""
-                }
-            ]
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "40",
+            "MaximumX": "208",
+            "MinimumY": "618",
+            "MaximumY": "638"
+          },
+          "Type": "hover",
+          "NextStep": "1",
+          "OriginStep": "0"
         }
-    ]
+      ]
+    },
+    {
+      "StepID": "1",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_02.png",
+        "Slug": "visual-analytics-02",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "40",
+            "MaximumX": "208",
+            "MinimumY": "618",
+            "MaximumY": "638"
+          },
+          "Type": "click",
+          "NextStep": "2"
+        }
+      ]
+    },
+    {
+      "StepID": "2",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_03.png",
+        "Slug": "visual-analytics-03",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "56",
+            "MaximumX": "208",
+            "MinimumY": "238",
+            "MaximumY": "258"
+          },
+          "Type": "hover",
+          "NextStep": "3"
+        }
+      ]
+    },
+    {
+      "StepID": "3",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_04.png",
+        "Slug": "visual-analytics-04",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "56",
+            "MaximumX": "208",
+            "MinimumY": "238",
+            "MaximumY": "258"
+          },
+          "Type": "click",
+          "NextStep": "4"
+        }
+      ]
+    },
+    {
+      "StepID": "4",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_05.png",
+        "Slug": "visual-analytics-05",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "224",
+            "MaximumX": "364",
+            "MinimumY": "212",
+            "MaximumY": "232"
+          },
+          "Type": "hover",
+          "NextStep": "5"
+        }
+      ]
+    },
+    {
+      "StepID": "5",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_06.png",
+        "Slug": "visual-analytics-06",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "224",
+            "MaximumX": "364",
+            "MinimumY": "212",
+            "MaximumY": "232"
+          },
+          "Type": "click",
+          "NextStep": "6"
+        }
+      ]
+    },
+    {
+      "StepID": "6",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_07.png",
+        "Slug": "visual-analytics-07",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "224",
+            "MaximumX": "364",
+            "MinimumY": "254",
+            "MaximumY": "274"
+          },
+          "Type": "hover",
+          "NextStep": "7"
+        }
+      ]
+    },
+    {
+      "StepID": "7",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_08.png",
+        "Slug": "visual-analytics-08",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "224",
+            "MaximumX": "364",
+            "MinimumY": "254",
+            "MaximumY": "274"
+          },
+          "Type": "click",
+          "NextStep": "8"
+        }
+      ]
+    },
+    {
+      "StepID": "8",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/visual_analytics_09.png",
+        "Slug": "visual-analytics-09",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "",
+            "MinimumX": "",
+            "MaximumX": "",
+            "MinimumY": "",
+            "MaximumY": ""
+          },
+          "Type": "",
+          "NextStep": ""
+        }
+      ]
+    }
+  ]
 }
