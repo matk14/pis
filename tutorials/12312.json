@@ -178,7 +178,7 @@
             "Type": "rect",
             "MinimumX": "266",
             "MaximumX": "517",
-            "MinimumY": "276",
+            "MinimumY": "76",
             "MaximumY": "97"
           },
           "Type": "hover",
@@ -201,7 +201,7 @@
             "Type": "rect",
             "MinimumX": "266",
             "MaximumX": "517",
-            "MinimumY": "276",
+            "MinimumY": "76",
             "MaximumY": "97"
           },
           "Type": "click",
