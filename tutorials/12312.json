@@ -112,7 +112,7 @@
             "MinimumY": "194",
             "MaximumY": "206"
           },
-          "Type": "hover",
+          "Type": "click",
           "NextStep": "5"
         }
       ]
