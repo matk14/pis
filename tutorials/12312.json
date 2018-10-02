@@ -4,8 +4,8 @@
       "StepID": "0",
       "Image": {
         "PropertyID": "2",
-        "Source": "http://siniestro.xyz/pis/visual_analytics_01.png",
-        "Slug": "visual-analytics-01",
+        "Source": "http://siniestro.xyz/pis/marks_01.png",
+        "Slug": "marks-01",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -16,8 +16,8 @@
             "Type": "rect",
             "MinimumX": "40",
             "MaximumX": "208",
-            "MinimumY": "618",
-            "MaximumY": "638"
+            "MinimumY": "640",
+            "MaximumY": "660"
           },
           "Type": "hover",
           "NextStep": "1",
@@ -28,8 +28,8 @@
     {
       "StepID": "1",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_02.png",
-        "Slug": "visual-analytics-02",
+        "Source": "http://siniestro.xyz/pis/marks_02.png",
+        "Slug": "marks-02",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -40,8 +40,8 @@
             "Type": "rect",
             "MinimumX": "40",
             "MaximumX": "208",
-            "MinimumY": "618",
-            "MaximumY": "638"
+            "MinimumY": "640",
+            "MaximumY": "660"
           },
           "Type": "click",
           "NextStep": "2"
@@ -51,8 +51,8 @@
     {
       "StepID": "2",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_03.png",
-        "Slug": "visual-analytics-03",
+        "Source": "http://siniestro.xyz/pis/marks_03.png",
+        "Slug": "marks-03",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -61,10 +61,10 @@
         {
           "Region": {
             "Type": "rect",
-            "MinimumX": "56",
+            "MinimumX": "40",
             "MaximumX": "208",
-            "MinimumY": "238",
-            "MaximumY": "258"
+            "MinimumY": "577",
+            "MaximumY": "597"
           },
           "Type": "hover",
           "NextStep": "3"
@@ -74,8 +74,8 @@
     {
       "StepID": "3",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_04.png",
-        "Slug": "visual-analytics-04",
+        "Source": "http://siniestro.xyz/pis/marks_04.png",
+        "Slug": "marks-04",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -84,10 +84,10 @@
         {
           "Region": {
             "Type": "rect",
-            "MinimumX": "56",
+            "MinimumX": "40",
             "MaximumX": "208",
-            "MinimumY": "238",
-            "MaximumY": "258"
+            "MinimumY": "577",
+            "MaximumY": "597"
           },
           "Type": "click",
           "NextStep": "4"
@@ -97,8 +97,8 @@
     {
       "StepID": "4",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_05.png",
-        "Slug": "visual-analytics-05",
+        "Source": "http://siniestro.xyz/pis/marks_05.png",
+        "Slug": "marks-05",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -107,10 +107,10 @@
         {
           "Region": {
             "Type": "rect",
-            "MinimumX": "224",
-            "MaximumX": "364",
-            "MinimumY": "212",
-            "MaximumY": "232"
+            "MinimumX": "972",
+            "MaximumX": "984",
+            "MinimumY": "194",
+            "MaximumY": "206"
           },
           "Type": "hover",
           "NextStep": "5"
@@ -120,8 +120,8 @@
     {
       "StepID": "5",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_06.png",
-        "Slug": "visual-analytics-06",
+        "Source": "http://siniestro.xyz/pis/marks_06.png",
+        "Slug": "marks-06",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -130,12 +130,12 @@
         {
           "Region": {
             "Type": "rect",
-            "MinimumX": "224",
-            "MaximumX": "364",
-            "MinimumY": "212",
-            "MaximumY": "232"
+            "MinimumX": "263",
+            "MaximumX": "321",
+            "MinimumY": "31",
+            "MaximumY": "51"
           },
-          "Type": "click",
+          "Type": "hover",
           "NextStep": "6"
         }
       ]
@@ -143,8 +143,8 @@
     {
       "StepID": "6",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_07.png",
-        "Slug": "visual-analytics-07",
+        "Source": "http://siniestro.xyz/pis/marks_07.png",
+        "Slug": "marks-07",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -153,12 +153,12 @@
         {
           "Region": {
             "Type": "rect",
-            "MinimumX": "224",
-            "MaximumX": "364",
-            "MinimumY": "254",
-            "MaximumY": "274"
+            "MinimumX": "263",
+            "MaximumX": "321",
+            "MinimumY": "31",
+            "MaximumY": "51"
           },
-          "Type": "hover",
+          "Type": "click",
           "NextStep": "7"
         }
       ]
@@ -166,8 +166,8 @@
     {
       "StepID": "7",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_08.png",
-        "Slug": "visual-analytics-08",
+        "Source": "http://siniestro.xyz/pis/marks_08.png",
+        "Slug": "marks-08",
         "Description": "",
         "Width": "1253",
         "Height": "842"
@@ -176,12 +176,12 @@
         {
           "Region": {
             "Type": "rect",
-            "MinimumX": "224",
-            "MaximumX": "364",
-            "MinimumY": "254",
-            "MaximumY": "274"
+            "MinimumX": "266",
+            "MaximumX": "517",
+            "MinimumY": "276",
+            "MaximumY": "97"
           },
-          "Type": "click",
+          "Type": "hover",
           "NextStep": "8"
         }
       ]
@@ -189,8 +189,31 @@
     {
       "StepID": "8",
       "Image": {
-        "Source": "http://siniestro.xyz/pis/visual_analytics_09.png",
-        "Slug": "visual-analytics-09",
+        "Source": "http://siniestro.xyz/pis/marks_09.png",
+        "Slug": "marks-09",
+        "Description": "",
+        "Width": "1253",
+        "Height": "842"
+      },
+      "Events": [
+        {
+          "Region": {
+            "Type": "rect",
+            "MinimumX": "266",
+            "MaximumX": "517",
+            "MinimumY": "276",
+            "MaximumY": "97"
+          },
+          "Type": "click",
+          "NextStep": "9"
+        }
+      ]
+    },
+    {
+      "StepID": "9",
+      "Image": {
+        "Source": "http://siniestro.xyz/pis/marks_10.png",
+        "Slug": "marks-10",
         "Description": "",
         "Width": "1253",
         "Height": "842"
