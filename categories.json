@@ -1,42 +1,49 @@
-{
-"categoriesList" : [
-		{
-		   "id": "41",
-		   "name": "Getting Started",
-		   "tutorials" : [
-					{
-					 "id": "8383",
-					 "name": "Working with marks"
-					},
-					{
-					 "id": "12312",
-					 "name": "Working with marks 2"
-					}
-				],
-			"subcategories" : [
+[
+	{
+		"id": "41",
+		"name": "Getting Started",
+		"tutorials" : [
+			{
+				"id": "8383",
+				"name": "Working with marks",
+				"published": "1"
+			},
+			{
+				"id": "12312",
+				"name": "Working with marks 2",
+				"published": "1"
+			}
+		],
+		"subcategories" : [
+			{
+				"id": "1231",
+				"name": "Bonus",
+				"tutorials": [
 				{
-				  "id": "1231",
-				  "name": "Bonus",
-				  "tutorials": [
-					{
-					 "id": "12313",
-					 "name": "Working with marks Extra"
-					}
-				  ]
+					"id": "12313",
+					"name": "Working with marks Extra",
+					"published": "1"
 				}
-			]
-		},
-		{
-		   "id": "66",
-		   "name": "Hardcore",
-		   "tutorials" : [
-		   			{
-					 "id": "98",
-					 "name": "Working with marks"
-					}
-			],
-			"subcategories" : [
-			]
-		}
-	]
-}
+				]
+			}
+		]
+	},
+	{
+		"id": "66",
+		"name": "Hardcore",
+		"tutorials" : [
+			{
+				"id": "98",
+				"name": "Working with marks",
+				"published": "0"
+			},
+			{
+				"id": "1414",
+				"name": "Working with Drag and Drop",
+				"published": "1"
+			}
+		],
+		"subcategories" : [
+		]
+	}
+]
