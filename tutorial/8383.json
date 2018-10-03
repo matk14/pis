@@ -1,16 +1,16 @@
 {
-  "tutorial": {
-    "TutorialID": "8383",
-    "Name": "Working with marks",
-    "Steps": [
-      "0",
-      "1",
-      "2"
-    ],
-    "Description": "Visual Analytics is the process of gaining knowledge and insight from data, from interactive visual interfaces. One way to start analyzing data in Tableau is asking questions of your data and attempt to answer them. WHAT ARE OUR SALES LIKE OVER TIME?",
-    "Category": "Getting Started with Visual Analytics",
-    "Owner": "user0",
-    "FirstStep": "0",
-    "FinalStep": "8"
-  }
+  "tutorialID": "8383",
+  "name": "Working with marks",
+  "steps": [
+    "0",
+    "1",
+    "2"
+  ],
+  "description": "Visual Analytics is the process of gaining knowledge and insight from data, from interactive visual interfaces. One way to start analyzing data in Tableau is asking questions of your data and attempt to answer them. WHAT ARE OUR SALES LIKE OVER TIME?",
+  "category": "Getting Started with Visual Analytics",
+  "owner": "user0",
+  "firstStep": "0",
+  "finalStep": "8",
+  "difficulty": "Easy",
+  "duration": "< 1:30"
 }
