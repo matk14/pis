@@ -1,5 +1,4 @@
-{
-    "data": [
+[
         {
             "StepID": "0",
             "Image": {
@@ -10,6 +9,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -34,6 +35,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -57,6 +60,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -80,6 +85,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -103,6 +110,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -126,6 +135,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -149,6 +160,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -172,6 +185,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -195,6 +210,8 @@
                 "Width": "1253",
                 "Height": "842"
             },
+            "Assistance": "Click on ..",
+            "Text": "Now let's click on ..",
             "Events": [
                 {
                     "Region": {
@@ -210,4 +227,3 @@
             ]
         }
     ]
-}

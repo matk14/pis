@@ -1,5 +1,4 @@
 {
-  "tutorial": {
     "TutorialID": "8383",
     "Name": "Working with marks",
     "Steps": [
@@ -11,6 +10,7 @@
     "Category": "Getting Started with Visual Analytics",
     "Owner": "user0",
     "FirstStep": "0",
-    "FinalStep": "8"
-  }
+    "FinalStep": "8",
+    "difficulty": "Easy",
+    "duration": "< 1:30"
 }
