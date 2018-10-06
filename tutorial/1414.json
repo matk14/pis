@@ -6,11 +6,11 @@
     "1",
     "2"
   ],
-  "Description": "Visual Analytics is the process of gaining knowledge and insight from data, from interactive visual interfaces. One way to start analyzing data in Tableau is asking questions of your data and attempt to answer them. WHAT ARE OUR SALES LIKE OVER TIME?",
+  "Description": "This tutorial is to test Drag and Drop events. Enjoy.",
   "Category": "Getting Started with Visual Analytics",
   "Owner": "user0",
   "FirstStep": "0",
-  "FinalStep": "8",
+  "FinalStep": "3",
   "difficulty": "Easy",
   "duration": "< 1:30"
 }
