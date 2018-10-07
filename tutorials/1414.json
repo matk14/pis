@@ -17,8 +17,8 @@
           "Type": "rect",
           "MinimumX": "40",
           "MaximumX": "208",
-          "MinimumY": "618",
-          "MaximumY": "638"
+          "MinimumY": "619",
+          "MaximumY": "639"
         },
         "Type": "hover",
         "NextStep": "1",
@@ -43,8 +43,8 @@
           "Type": "rect",
           "MinimumX": "40",
           "MaximumX": "208",
-          "MinimumY": "618",
-          "MaximumY": "638"
+          "MinimumY": "619",
+          "MaximumY": "639"
         },
         "Type": "drag",
         "NextStep": "2"
