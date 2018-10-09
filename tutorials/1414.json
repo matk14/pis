@@ -47,7 +47,8 @@
           "MaximumY": "639"
         },
         "Type": "drag",
-        "NextStep": "2"
+        "NextStep": "2",
+        "OriginStep": "0"
       }
     ]
   },
@@ -72,7 +73,8 @@
           "MaximumY": "153"
         },
         "Type": "hover",
-        "NextStep": "3"
+        "NextStep": "3",
+        "OriginStep": "1"
       }
     ]
   },
@@ -97,7 +99,8 @@
           "MaximumY": "153"
         },
         "Type": "drop",
-        "NextStep": "4"
+        "NextStep": "4",
+        "OriginStep": "2"
       }
     ]
   },
@@ -122,7 +125,8 @@
           "MaximumY": ""
         },
         "Type": "",
-        "NextStep": ""
+        "NextStep": "",
+        "OriginStep": "3"
       }
     ]
   }

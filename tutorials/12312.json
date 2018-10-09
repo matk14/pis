@@ -43,7 +43,8 @@
             "MaximumY": "660"
           },
           "Type": "click",
-          "NextStep": "2"
+          "NextStep": "2",
+          "OriginStep": "0"
         }
       ]
     },
@@ -66,7 +67,8 @@
             "MaximumY": "597"
           },
           "Type": "hover",
-          "NextStep": "3"
+          "NextStep": "3",
+          "OriginStep": "1"
         }
       ]
     },
@@ -89,7 +91,8 @@
             "MaximumY": "597"
           },
           "Type": "click",
-          "NextStep": "4"
+          "NextStep": "4",
+          "OriginStep": "2"
         }
       ]
     },
@@ -112,7 +115,8 @@
             "MaximumY": "206"
           },
           "Type": "click",
-          "NextStep": "5"
+          "NextStep": "5",
+          "OriginStep": "3"
         }
       ]
     },
@@ -135,7 +139,8 @@
             "MaximumY": "51"
           },
           "Type": "hover",
-          "NextStep": "6"
+          "NextStep": "6",
+          "OriginStep": "4"
         }
       ]
     },
@@ -158,7 +163,8 @@
             "MaximumY": "51"
           },
           "Type": "click",
-          "NextStep": "7"
+          "NextStep": "7",
+          "OriginStep": "5"
         }
       ]
     },
@@ -181,7 +187,8 @@
             "MaximumY": "97"
           },
           "Type": "hover",
-          "NextStep": "8"
+          "NextStep": "8",
+          "OriginStep": "6"
         }
       ]
     },
@@ -204,7 +211,8 @@
             "MaximumY": "97"
           },
           "Type": "click",
-          "NextStep": "9"
+          "NextStep": "9",
+          "OriginStep": "7"
         }
       ]
     },
@@ -227,7 +235,8 @@
             "MaximumY": ""
           },
           "Type": "",
-          "NextStep": ""
+          "NextStep": "",
+          "OriginStep": "8"
         }
       ]
     }
