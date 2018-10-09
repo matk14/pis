@@ -77,7 +77,7 @@
     ]
   },
   {
-    "StepID": "4",
+    "StepID": "3",
     "Image": {
       "Source": "http://siniestro.xyz/pis/drag_04.png",
       "Slug": "visual-analytics-03",
@@ -97,7 +97,7 @@
           "MaximumY": "153"
         },
         "Type": "drop",
-        "NextStep": "3"
+        "NextStep": "4"
       }
     ]
   },
