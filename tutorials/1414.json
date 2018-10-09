@@ -71,16 +71,41 @@
           "MinimumY": "126",
           "MaximumY": "153"
         },
+        "Type": "hover",
+        "NextStep": "3"
+      }
+    ]
+  },
+  {
+    "StepID": "4",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/drag_04.png",
+      "Slug": "visual-analytics-03",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Assistance": "Click on ..",
+    "Text": "Now let's click on ..",
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "502",
+          "MaximumX": "1245",
+          "MinimumY": "126",
+          "MaximumY": "153"
+        },
         "Type": "drop",
         "NextStep": "3"
       }
     ]
   },
   {
-    "StepID": "3",
+    "StepID": "4",
     "Image": {
-      "Source": "http://siniestro.xyz/pis/drag_04.png",
-      "Slug": "visual-analytics-04",
+      "Source": "http://siniestro.xyz/pis/drag_05.png",
+      "Slug": "visual-analytics-05",
       "Description": "",
       "Width": "1253",
       "Height": "842"
