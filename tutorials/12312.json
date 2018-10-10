@@ -1,243 +1,388 @@
 [
-    {
-      "StepID": "0",
-      "Image": {
-        "PropertyID": "2",
-        "Source": "http://siniestro.xyz/pis/marks_01.png",
-        "Slug": "marks-01",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "40",
-            "MaximumX": "208",
-            "MinimumY": "640",
-            "MaximumY": "660"
-          },
-          "Type": "hover",
-          "NextStep": "1",
-          "OriginStep": "0"
-        }
-      ]
+  {
+    "StepID": "0",
+    "Image": {
+      "PropertyID": "2",
+      "Source": "http://siniestro.xyz/pis/marks_01.png",
+      "Slug": "marks-01",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "1",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_02.png",
-        "Slug": "marks-02",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "40",
-            "MaximumX": "208",
-            "MinimumY": "640",
-            "MaximumY": "660"
-          },
-          "Type": "click",
-          "NextStep": "2",
-          "OriginStep": "0"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "40",
+          "MaximumX": "208",
+          "MinimumY": "640",
+          "MaximumY": "660"
+        },
+        "Type": "hover",
+        "NextStep": "1",
+        "OriginStep": "0"
+      }
+    ]
+  },
+  {
+    "StepID": "1",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_02.png",
+      "Slug": "marks-02",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "2",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_03.png",
-        "Slug": "marks-03",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "40",
-            "MaximumX": "208",
-            "MinimumY": "577",
-            "MaximumY": "597"
-          },
-          "Type": "hover",
-          "NextStep": "3",
-          "OriginStep": "1"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "40",
+          "MaximumX": "208",
+          "MinimumY": "640",
+          "MaximumY": "660"
+        },
+        "Type": "click",
+        "NextStep": "2",
+        "OriginStep": "0"
+      }
+    ]
+  },
+  {
+    "StepID": "2",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_03.png",
+      "Slug": "marks-03",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "3",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_04.png",
-        "Slug": "marks-04",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "40",
-            "MaximumX": "208",
-            "MinimumY": "577",
-            "MaximumY": "597"
-          },
-          "Type": "click",
-          "NextStep": "4",
-          "OriginStep": "2"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "40",
+          "MaximumX": "208",
+          "MinimumY": "577",
+          "MaximumY": "597"
+        },
+        "Type": "hover",
+        "NextStep": "3",
+        "OriginStep": "1"
+      }
+    ]
+  },
+  {
+    "StepID": "3",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_04.png",
+      "Slug": "marks-04",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "4",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_05.png",
-        "Slug": "marks-05",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "972",
-            "MaximumX": "984",
-            "MinimumY": "194",
-            "MaximumY": "206"
-          },
-          "Type": "click",
-          "NextStep": "5",
-          "OriginStep": "3"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "40",
+          "MaximumX": "208",
+          "MinimumY": "577",
+          "MaximumY": "597"
+        },
+        "Type": "click",
+        "NextStep": "4",
+        "OriginStep": "2"
+      }
+    ]
+  },
+  {
+    "StepID": "4",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_05.png",
+      "Slug": "marks-05",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "5",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_06.png",
-        "Slug": "marks-06",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "263",
-            "MaximumX": "321",
-            "MinimumY": "31",
-            "MaximumY": "51"
-          },
-          "Type": "hover",
-          "NextStep": "6",
-          "OriginStep": "4"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "972",
+          "MaximumX": "984",
+          "MinimumY": "194",
+          "MaximumY": "206"
+        },
+        "Type": "click",
+        "NextStep": "5",
+        "OriginStep": "3"
+      }
+    ]
+  },
+  {
+    "StepID": "5",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_06.png",
+      "Slug": "marks-06",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "6",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_07.png",
-        "Slug": "marks-07",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "263",
-            "MaximumX": "321",
-            "MinimumY": "31",
-            "MaximumY": "51"
-          },
-          "Type": "click",
-          "NextStep": "7",
-          "OriginStep": "5"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "263",
+          "MaximumX": "321",
+          "MinimumY": "31",
+          "MaximumY": "51"
+        },
+        "Type": "hover",
+        "NextStep": "6",
+        "OriginStep": "4"
+      }
+    ]
+  },
+  {
+    "StepID": "6",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_07.png",
+      "Slug": "marks-07",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "7",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_08.png",
-        "Slug": "marks-08",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "266",
-            "MaximumX": "517",
-            "MinimumY": "76",
-            "MaximumY": "97"
-          },
-          "Type": "hover",
-          "NextStep": "8",
-          "OriginStep": "6"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "263",
+          "MaximumX": "321",
+          "MinimumY": "31",
+          "MaximumY": "51"
+        },
+        "Type": "click",
+        "NextStep": "7",
+        "OriginStep": "5"
+      }
+    ]
+  },
+  {
+    "StepID": "7",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_08.png",
+      "Slug": "marks-08",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "8",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_09.png",
-        "Slug": "marks-09",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "rect",
-            "MinimumX": "266",
-            "MaximumX": "517",
-            "MinimumY": "76",
-            "MaximumY": "97"
-          },
-          "Type": "click",
-          "NextStep": "9",
-          "OriginStep": "7"
-        }
-      ]
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "266",
+          "MaximumX": "517",
+          "MinimumY": "76",
+          "MaximumY": "97"
+        },
+        "Type": "hover",
+        "NextStep": "8",
+        "OriginStep": "6"
+      }
+    ]
+  },
+  {
+    "StepID": "8",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_09.png",
+      "Slug": "marks-09",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
     },
-    {
-      "StepID": "9",
-      "Image": {
-        "Source": "http://siniestro.xyz/pis/marks_10.png",
-        "Slug": "marks-10",
-        "Description": "",
-        "Width": "1253",
-        "Height": "842"
-      },
-      "Events": [
-        {
-          "Region": {
-            "Type": "",
-            "MinimumX": "",
-            "MaximumX": "",
-            "MinimumY": "",
-            "MaximumY": ""
-          },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "266",
+          "MaximumX": "517",
+          "MinimumY": "76",
+          "MaximumY": "97"
+        },
+        "Type": "click",
+        "NextStep": "9",
+        "OriginStep": "7"
+      }
+    ]
+  },
+  {
+    "StepID": "9",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_10.png",
+      "Slug": "marks-10",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "56",
+          "MaximumX": "85",
+          "MinimumY": "57",
+          "MaximumY": "86"
+        },
+        "Type": "hover",
+        "NextStep": "10",
+        "OriginStep": "8"
+      }
+    ]
+  },
+  {
+    "StepID": "10",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_11.png",
+      "Slug": "marks-11",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "56",
+          "MaximumX": "85",
+          "MinimumY": "57",
+          "MaximumY": "86"
+        },
+        "Type": "click",
+        "NextStep": "11",
+        "OriginStep": "9"
+      }
+    ]
+  },
+  {
+    "StepID": "11",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_12.png",
+      "Slug": "marks-12",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "56",
+          "MaximumX": "190",
+          "MinimumY": "449",
+          "MaximumY": "468"
+        },
+        "Type": "hover",
+        "NextStep": "12",
+        "OriginStep": "10"
+      }
+    ]
+  },
+  {
+    "StepID": "12",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_13.png",
+      "Slug": "marks-13",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "56",
+          "MaximumX": "190",
+          "MinimumY": "449",
+          "MaximumY": "468"
+        },
+        "Type": "drag",
+        "NextStep": "13",
+        "OriginStep": "11"
+      }
+    ]
+  },
+  {
+    "StepID": "13",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_14.png",
+      "Slug": "marks-14",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "321",
+          "MaximumX": "363",
+          "MinimumY": "287",
+          "MaximumY": "328"
+        },
+        "Type": "hover",
+        "NextStep": "14",
+        "OriginStep": "12"
+      }
+    ]
+  }
+  ,
+  {
+    "StepID": "14",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_15.png",
+      "Slug": "marks-15",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "321",
+          "MaximumX": "363",
+          "MinimumY": "287",
+          "MaximumY": "328"
+        },
+        "Type": "drop",
+        "NextStep": "15",
+        "OriginStep": "13"
+      }
+    ]
+  },
+  {
+    "StepID": "15",
+    "Image": {
+      "Source": "http://siniestro.xyz/pis/marks_16.png",
+      "Slug": "marks-16",
+      "Description": "",
+      "Width": "1253",
+      "Height": "842"
+    },
+    "Events": [
+      {
+        "Region": {
           "Type": "",
-          "NextStep": "",
-          "OriginStep": "8"
-        }
-      ]
-    }
-  ]
+          "MinimumX": "",
+          "MaximumX": "",
+          "MinimumY": "",
+          "MaximumY": ""
+        },
+        "Type": "",
+        "NextStep": "",
+        "OriginStep": "14"
+      }
+    ]
+  }
+]
