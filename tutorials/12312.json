@@ -72,7 +72,8 @@
         "NextStep": "3",
         "OriginStep": "1"
       }
-    ]
+    ],
+     "Assistance": "This is the assistance of the step 2"
   },
   {
     "StepID": "3",
@@ -121,7 +122,8 @@
         "NextStep": "5",
         "OriginStep": "3"
       }
-    ]
+    ],
+     "Assistance": "This is the assistance of the step 4"
   },
   {
     "StepID": "5",
