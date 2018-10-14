@@ -22,7 +22,8 @@
         "NextStep": "1",
         "OriginStep": "0"
       }
-    ]
+    ],
+    "Assistance": "This is the assistance of the step 0"
   },
   {
     "StepID": "1",
@@ -46,7 +47,8 @@
         "NextStep": "2",
         "OriginStep": "0"
       }
-    ]
+    ],
+     "Assistance": "This is the assistance of the step 1"
   },
   {
     "StepID": "2",
@@ -70,7 +72,8 @@
         "NextStep": "3",
         "OriginStep": "1"
       }
-    ]
+    ],
+     "Assistance": "This is the assistance of the step 2"
   },
   {
     "StepID": "3",
@@ -94,7 +97,8 @@
         "NextStep": "4",
         "OriginStep": "2"
       }
-    ]
+    ],
+     "Assistance": "This is the assistance of the step 3"
   },
   {
     "StepID": "4",
@@ -118,7 +122,8 @@
         "NextStep": "5",
         "OriginStep": "3"
       }
-    ]
+    ],
+     "Assistance": "This is the assistance of the step 4"
   },
   {
     "StepID": "5",
