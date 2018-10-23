@@ -150,13 +150,13 @@
       {
         "Region": {
           "Type": "rect",
-          "MinimumX": "0",
-          "MaximumX": "0",
-          "MinimumY": "0",
-          "MaximumY": "0"
+          "MinimumX": "972",
+          "MaximumX": "984",
+          "MinimumY": "194",
+          "MaximumY": "206"
         },
         "Type": "hover",
-        "NextStep": "6",
+        "NextStep": "5",
         "OriginStep": "4"
       }
     ]
