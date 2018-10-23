@@ -48,7 +48,7 @@
         "OriginStep": "0"
       }
     ],
-     "Assistance": "This is the assistance of the step 1"
+    "Assistance": "This is the assistance of the step 1"
   },
   {
     "StepID": "2",
@@ -73,7 +73,7 @@
         "OriginStep": "1"
       }
     ],
-     "Assistance": "This is the assistance of the step 2"
+    "Assistance": "This is the assistance of the step 2"
   },
   {
     "StepID": "3",
@@ -98,7 +98,7 @@
         "OriginStep": "2"
       }
     ],
-     "Assistance": "This is the assistance of the step 3"
+    "Assistance": "This is the assistance of the step 3"
   },
   {
     "StepID": "4",
@@ -135,7 +135,7 @@
         "OriginStep": "3"
       }
     ],
-     "Assistance": "This is the assistance of the step 4"
+    "Assistance": "This is the assistance of the step 4"
   },
   {
     "StepID": "5",
@@ -352,8 +352,7 @@
         "OriginStep": "12"
       }
     ]
-  }
-  ,
+  },
   {
     "StepID": "14",
     "Image": {
