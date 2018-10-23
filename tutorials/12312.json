@@ -118,8 +118,20 @@
           "MinimumY": "194",
           "MaximumY": "206"
         },
-        "Type": "click",
+        "Type": "hover",
         "NextStep": "5",
+        "OriginStep": "3"
+      },
+      {
+        "Region": {
+          "Type": "rect",
+          "MinimumX": "263",
+          "MaximumX": "321",
+          "MinimumY": "31",
+          "MaximumY": "51"
+        },
+        "Type": "hover",
+        "NextStep": "6",
         "OriginStep": "3"
       }
     ],
@@ -138,10 +150,10 @@
       {
         "Region": {
           "Type": "rect",
-          "MinimumX": "263",
-          "MaximumX": "321",
-          "MinimumY": "31",
-          "MaximumY": "51"
+          "MinimumX": "0",
+          "MaximumX": "0",
+          "MinimumY": "0",
+          "MaximumY": "0"
         },
         "Type": "hover",
         "NextStep": "6",
