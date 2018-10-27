@@ -23,7 +23,12 @@
         "OriginStep": "0"
       }
     ],
-    "Assistance": "This is the assistance of the step 0"
+    "Assistance": "This is the assistance of the step 0",
+    "text": { 
+        "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Excepturi error, facere iure deserunt harum adipisci quia nesciunt
+        debitis similique, facilis" 
+     }
   },
   {
     "StepID": "1",
@@ -48,7 +53,12 @@
         "OriginStep": "0"
       }
     ],
-    "Assistance": "This is the assistance of the step 1"
+    "Assistance": "This is the assistance of the step 1",
+    "text": { 
+        "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Excepturi error, facere iure deserunt harum adipisci quia nesciunt
+        debitis similique, facilis" 
+     }
   },
   {
     "StepID": "2",
@@ -73,7 +83,12 @@
         "OriginStep": "1"
       }
     ],
-    "Assistance": "This is the assistance of the step 2"
+    "Assistance": "This is the assistance of the step 2",
+     "text": { 
+        "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Excepturi error, facere iure deserunt harum adipisci quia nesciunt
+        debitis similique, facilis" 
+     }
   },
   {
     "StepID": "3",
@@ -135,7 +150,12 @@
         "OriginStep": "3"
       }
     ],
-    "Assistance": "This is the assistance of the step 4"
+    "Assistance": "This is the assistance of the step 4",
+    "text": { 
+        "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Excepturi error, facere iure deserunt harum adipisci quia nesciunt
+        debitis similique, facilis" 
+     }
   },
   {
     "StepID": "5",
@@ -255,7 +275,12 @@
         "NextStep": "10",
         "OriginStep": "8"
       }
-    ]
+    ],
+    "text": { 
+        "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit.
+        Excepturi error, facere iure deserunt harum adipisci quia nesciunt
+        debitis similique, facilis" 
+     }
   },
   {
     "StepID": "10",
