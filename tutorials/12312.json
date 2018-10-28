@@ -81,7 +81,7 @@
     ],
     "Assistance": "This is the assistance of the step 2",
       "text": { 
-        "value": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi error, facere iure deserunt harum adipisci quia nesciunt debitis similique, facilis" 
+        "value": "Instruction of step 2 \n Lorem ipsum dolor sit amet consectetur, adipisicing elit. Excepturi error, facere iure deserunt harum adipisci quia nesciunt debitis similique, facilis" 
      }
   },
   {
